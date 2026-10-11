@@ -1,0 +1,601 @@
+prompt_id,domain,prompt
+P001,writing,Write a formal email to a professor asking for an extension on a project about the moon.
+P002,coding,Explain how exception handling works in Java and show a short example.
+P003,coding,Write a Go program that reads a CSV file and prints the average of a numeric column.
+P004,coding,Write a JavaScript function that finds the two numbers in an array that add up to a given target.
+P005,coding,"Write a C++ program that prints the numbers 1 to 100, but prints ""Fizz"" for multiples of 3, ""Buzz"" for multiples of 5, and ""FizzBuzz"" for multiples of both."
+P006,math,Convert 143 from base 10 to base 2 and base 16.
+P007,coding,Implement merge sort in Go.
+P008,math,Evaluate the integral of (4x^2 + 9x) dx from 0 to 5.
+P009,writing,Write a cover letter opening paragraph for a job connected to gardening.
+P010,math,Explain Bayes' theorem with a simple medical testing example.
+P011,writing,Write a blog post introduction about friendship.
+P012,coding,Write a JavaScript function that implements the Sieve of Eratosthenes to list all primes below n.
+P013,math,"If you roll two fair six-sided dice, what is the probability that the sum is 3?"
+P014,writing,Write a five-paragraph essay outline on the moon.
+P015,writing,Write a limerick about artificial intelligence.
+P016,math,Find the area and circumference of a circle with radius 8 cm.
+P017,writing,Write a short story (about 300 words) involving a family road trip.
+P018,writing,Write a funny social media post about public transportation.
+P019,coding,Write a JavaScript function that flattens a nested list or array of arbitrary depth.
+P020,coding,Write a C++ function that checks if two strings are anagrams of each other.
+P021,writing,Write a review of an imaginary book about an old library.
+P022,coding,Write a Python function that generates all permutations of a string.
+P023,writing,Write a thank-you note to a mentor who taught you about a broken phone.
+P024,coding,Implement a binary search tree in Java with insert and search methods.
+P025,coding,Write a Go function that determines whether a binary tree is height-balanced.
+P026,coding,"Write a function in JavaScript that checks whether a string is a palindrome, ignoring spaces and case."
+P027,coding,Write a C++ function that finds the maximum sum of any contiguous subarray (Kadane's algorithm).
+P028,coding,Write a Java function that reverses a singly linked list.
+P029,math,What is the difference between a rational and an irrational number? Give examples.
+P030,math,Solve for x: 4x + 23 = 39.
+P031,coding,Write a C++ function that returns the n-th Fibonacci number using an iterative approach.
+P032,math,"A rectangle's length is 4 times its width, and its perimeter is 100 m. Find its dimensions and area."
+P033,writing,Write a short motivational speech that mentions a lost dog.
+P034,math,A right triangle has legs of length 9 and 11. Find the length of the hypotenuse.
+P035,writing,Write a short poem about climate change.
+P036,math,"Find the mean, median, and mode of this data set: 5, 12, 20, 11, 13, 18, 5, 3, 6."
+P037,writing,Write a five-paragraph essay outline on learning a new language.
+P038,coding,Write a C++ function that returns the k most frequent elements in an array.
+P039,writing,Write a short news-style article about a local event involving mountain hiking.
+P040,coding,Write a C++ function that reverses a singly linked list.
+P041,writing,Write a dialogue between two friends who disagree about sleep.
+P042,coding,Implement depth-first search on a graph represented as an adjacency list in Python.
+P043,writing,Write a cover letter opening paragraph for a job connected to public transportation.
+P044,coding,Write a Java function that checks whether a number is prime.
+P045,math,Solve the quadratic equation x^2 - 4x + 12 = 0.
+P046,math,Find the derivative of f(x) = 8x^3 - 2x^2 + 2x - 18.
+P047,coding,Implement breadth-first search in Python to find the shortest path in an unweighted graph.
+P048,math,Find the derivative of f(x) = 6x^3 - 4x^2 + 9x - 19.
+P049,math,What is 40% of 744?
+P050,writing,Write a cover letter opening paragraph for a job connected to a rainy Monday morning.
+P051,writing,Write a short story (about 300 words) involving the ocean.
+P052,math,Convert 418 from base 10 to base 2 and base 16.
+P053,math,Evaluate the integral of (9x^2 + 6x) dx from 0 to 5.
+P054,coding,Write a Java function that checks if two strings are anagrams of each other.
+P055,writing,Write a thank-you note to a mentor who taught you about artificial intelligence.
+P056,math,"If $3000 is invested at 7% annual interest compounded yearly, how much will it be worth after 4 years?"
+P057,writing,Write a reflective journal entry about a family road trip.
+P058,writing,Write a children's bedtime story about a robot that wants to be human.
+P059,coding,Write a JavaScript function that returns the n-th Fibonacci number using an iterative approach.
+P060,writing,Write a product description for a new gadget related to social media.
+P061,coding,Write a C++ function that checks whether a year is a leap year.
+P062,writing,Write a blog post introduction about social media.
+P063,writing,Write a product description for a new gadget related to video games.
+P064,coding,Write a Go function that checks whether a number is prime.
+P065,math,Find the derivative of f(x) = 4x^3 - 3x^2 + 8x - 9.
+P066,coding,Implement depth-first search on a graph represented as an adjacency list in C++.
+P067,writing,Write a dialogue between two friends who disagree about an old library.
+P068,coding,Implement a binary search tree in Go with insert and search methods.
+P069,math,"A rectangle's length is 4 times its width, and its perimeter is 80 m. Find its dimensions and area."
+P070,math,Convert 410 from base 10 to base 2 and base 16.
+P071,coding,Implement a simple LRU cache in Go with get and put operations.
+P072,math,A shirt costs $40. It is discounted by 10% and then a 9% sales tax is added. What is the final price?
+P073,coding,Implement a queue using two stacks in JavaScript.
+P074,coding,"Write a Java program that prints the numbers 1 to 100, but prints ""Fizz"" for multiples of 3, ""Buzz"" for multiples of 5, and ""FizzBuzz"" for multiples of both."
+P075,math,What is 25% of 490?
+P076,math,Solve the system of equations: 5x + 1y = 27 and 1x - 3y = 6.
+P077,coding,Implement breadth-first search in JavaScript to find the shortest path in an unweighted graph.
+P078,math,Solve for x: 7x + 14 = 54.
+P079,math,Explain what a logarithm is and how it relates to exponents.
+P080,coding,Implement a binary search tree in JavaScript with insert and search methods.
+P081,coding,Write a C++ function that merges two sorted arrays into one sorted array.
+P082,writing,Write a haiku about a small-town bakery.
+P083,math,Find the derivative of f(x) = 9x^3 - 5x^2 + 2x - 15.
+P084,coding,Explain how exception handling works in C++ and show a short example.
+P085,writing,Write a short story (about 300 words) involving autumn leaves.
+P086,writing,Write a children's bedtime story about a lost dog.
+P087,coding,Write a Go function that removes duplicate values from an array while keeping the original order.
+P088,coding,Implement a simple LRU cache in JavaScript with get and put operations.
+P089,math,Solve the system of equations: 4x + 3y = 13 and 1x - 4y = 1.
+P090,coding,Write a JavaScript function that generates all permutations of a string.
+P091,writing,Write a five-paragraph essay outline on a rainy Monday morning.
+P092,math,Find the derivative of f(x) = 2x^3 - 4x^2 + 4x - 20.
+P093,writing,Write a dialogue between two friends who disagree about the moon.
+P094,math,"Find the mean, median, and mode of this data set: 6, 16, 16, 18, 7, 13, 19."
+P095,math,Evaluate the integral of (9x^2 + 7x) dx from 0 to 3.
+P096,writing,Write a short poem about friendship.
+P097,math,How many different committees of 4 people can be chosen from a group of 14?
+P098,math,Solve for x: 9x + 20 = 52.
+P099,coding,Write a Java function that removes duplicate values from an array while keeping the original order.
+P100,math,Find the derivative of f(x) = 4x^3 - 2x^2 + 2x - 4.
+P101,math,Convert 205 from base 10 to base 2 and base 16.
+P102,coding,"Write a function in C++ that checks whether a string is a palindrome, ignoring spaces and case."
+P103,writing,Write a short scene for a play set around a thunderstorm.
+P104,writing,Write a haiku about a broken phone.
+P105,writing,Write a product description for a new gadget related to climate change.
+P106,math,Solve for x: 6x + 16 = 56.
+P107,math,"Find the mean, median, and mode of this data set: 4, 5, 7, 10, 18, 15, 13, 1, 7, 9, 7."
+P108,coding,Write a Python function that checks if two strings are anagrams of each other.
+P109,writing,Write a dialogue between two friends who disagree about a family road trip.
+P110,writing,Write a letter to your future self about learning to cook.
+P111,coding,Write a C++ function that checks whether a number is prime.
+P112,math,"A rectangle's length is 2 times its width, and its perimeter is 100 m. Find its dimensions and area."
+P113,math,Solve the system of equations: 3x + 3y = 30 and 5x - 4y = 9.
+P114,math,What is 15% of 251?
+P115,math,What is 6% of 555?
+P116,math,Use mathematical induction to prove that 1 + 2 + ... + n = n(n+1)/2.
+P117,coding,Write a Java function that counts the vowels in a string.
+P118,coding,"Explain the difference between pass-by-value and pass-by-reference, with examples in C++."
+P119,writing,Write a short scene for a play set around public transportation.
+P120,coding,"Write a Java function that checks whether a string of brackets like ""([]{})"" is balanced."
+P121,coding,"Write a JavaScript function that computes the factorial of a number recursively, and explain the risk of stack overflow."
+P122,coding,Write a C++ function that flattens a nested list or array of arbitrary depth.
+P123,math,"A rectangle's length is 4 times its width, and its perimeter is 110 m. Find its dimensions and area."
+P124,writing,Write a blog post introduction about recycling.
+P125,math,How many different committees of 4 people can be chosen from a group of 15?
+P126,math,"If you roll two fair six-sided dice, what is the probability that the sum is 5?"
+P127,writing,Write a short story (about 300 words) involving public transportation.
+P128,writing,Write a blog post introduction about learning a new language.
+P129,writing,Write a letter to your future self about sleep.
+P130,coding,Write a Python function that checks whether a year is a leap year.
+P131,coding,Write a Python function that returns the k most frequent elements in an array.
+P132,writing,Write a blog post introduction about an old library.
+P133,writing,Write a five-paragraph essay outline on a robot that wants to be human.
+P134,math,Find the limit of (3x^2 + 5) / (2x^2 - 5x) as x approaches infinity.
+P135,math,Evaluate the integral of (2x^2 + 1x) dx from 0 to 4.
+P136,coding,Write a Java function that returns the longest common prefix among an array of strings.
+P137,coding,Write a Java function that capitalizes the first letter of every word in a sentence.
+P138,math,"Find the mean, median, and mode of this data set: 6, 16, 13, 11, 8, 9, 10."
+P139,coding,"Write a Python function that checks whether a string of brackets like ""([]{})"" is balanced."
+P140,math,A train travels 114 km in 3 hours. A second train is 18 km/h faster. How long does the second train take to travel the same distance?
+P141,coding,Write a C++ function that generates all permutations of a string.
+P142,coding,Write a JavaScript function that validates whether a string is a properly formatted email address.
+P143,math,A shirt costs $22. It is discounted by 22% and then a 9% sales tax is added. What is the final price?
+P144,coding,"Explain the difference between pass-by-value and pass-by-reference, with examples in Java."
+P145,coding,Implement merge sort in Python.
+P146,coding,Write a C++ function that validates whether a string is a properly formatted email address.
+P147,coding,Implement breadth-first search in Go to find the shortest path in an unweighted graph.
+P148,math,Find the derivative of f(x) = 8x^3 - 5x^2 + 6x - 14.
+P149,writing,Write a children's bedtime story about autumn leaves.
+P150,writing,Write a short news-style article about a local event involving a robot that wants to be human.
+P151,coding,"Implement a stack data structure in Go with push, pop, and peek operations."
+P152,math,"If $6000 is invested at 4% annual interest compounded yearly, how much will it be worth after 10 years?"
+P153,coding,"Write a function in Python that checks whether a string is a palindrome, ignoring spaces and case."
+P154,writing,Write a formal email to a professor asking for an extension on a project about a family road trip.
+P155,writing,Write a short scene for a play set around artificial intelligence.
+P156,math,Convert 298 from base 10 to base 2 and base 16.
+P157,math,Solve the system of equations: 1x + 3y = 28 and 5x - 1y = 8.
+P158,writing,Write a product description for a new gadget related to learning a new language.
+P159,coding,"Write a JavaScript function that checks whether a string of brackets like ""([]{})"" is balanced."
+P160,coding,Write a Python function that rotates a square matrix 90 degrees clockwise.
+P161,math,"Find the sum of the first 60 positive integers, and explain the formula you use."
+P162,writing,Write a dialogue between two friends who disagree about a city at night.
+P163,coding,Write a JavaScript function that finds the first non-repeating character in a string.
+P164,math,Show that 0.999... (repeating) is equal to 1.
+P165,writing,Write a limerick about sleep.
+P166,writing,Write a formal email to a professor asking for an extension on a project about social media.
+P167,writing,Write a short news-style article about a local event involving coffee.
+P168,math,"If $9000 is invested at 2% annual interest compounded yearly, how much will it be worth after 6 years?"
+P169,coding,Write a JavaScript program that reads a CSV file and prints the average of a numeric column.
+P170,math,A train travels 282 km in 4 hours. A second train is 22 km/h faster. How long does the second train take to travel the same distance?
+P171,coding,"Write a Go program that prints the numbers 1 to 100, but prints ""Fizz"" for multiples of 3, ""Buzz"" for multiples of 5, and ""FizzBuzz"" for multiples of both."
+P172,coding,Write a C++ program that counts how many times each word appears in a text.
+P173,writing,Write a short scene for a play set around a lost dog.
+P174,math,Find the limit of (8x^2 + 4) / (4x^2 - 3x) as x approaches infinity.
+P175,coding,Write a Go function that implements the Sieve of Eratosthenes to list all primes below n.
+P176,math,A train travels 259 km in 5 hours. A second train is 14 km/h faster. How long does the second train take to travel the same distance?
+P177,math,"A rectangle's length is 3 times its width, and its perimeter is 60 m. Find its dimensions and area."
+P178,coding,Write a Python function that reverses a singly linked list.
+P179,coding,"Find and fix the bug: in C++, a loop meant to sum the elements of an array starts its index at 1 instead of 0. Show the corrected code and explain the bug."
+P180,writing,Write a haiku about autumn leaves.
+P181,coding,"Find and fix the bug: in Python, a loop meant to sum the elements of an array starts its index at 1 instead of 0. Show the corrected code and explain the bug."
+P182,math,Why is division by zero undefined?
+P183,writing,Write a short news-style article about a local event involving gardening.
+P184,writing,Write a short news-style article about a local event involving a rainy Monday morning.
+P185,writing,Write a children's bedtime story about learning a new language.
+P186,math,How many ways can 9 people be seated in a row of chairs?
+P187,coding,Write a JavaScript function that checks if two strings are anagrams of each other.
+P188,math,A right triangle has legs of length 7 and 14. Find the length of the hypotenuse.
+P189,writing,Write a reflective journal entry about friendship.
+P190,writing,Write a persuasive essay paragraph arguing that people should care more about the first day of college.
+P191,writing,Write a thank-you note to a mentor who taught you about video games.
+P192,coding,Implement a binary search tree in C++ with insert and search methods.
+P193,writing,Write a short motivational speech that mentions public transportation.
+P194,coding,Write a C++ function that finds the first non-repeating character in a string.
+P195,math,Find the area and circumference of a circle with radius 6 cm.
+P196,writing,Write a short poem about artificial intelligence.
+P197,coding,Write a Python function that returns the n-th Fibonacci number using an iterative approach.
+P198,coding,Write a C++ function that implements the Sieve of Eratosthenes to list all primes below n.
+P199,math,Find the limit of (2x^2 + 4) / (9x^2 - 4x) as x approaches infinity.
+P200,coding,Write a Go function that checks whether a year is a leap year.
+P201,math,A shirt costs $86. It is discounted by 31% and then a 6% sales tax is added. What is the final price?
+P202,coding,Write a Go function that flattens a nested list or array of arbitrary depth.
+P203,math,"A bag has 9 red balls and 4 blue balls. If you draw 2 balls without replacement, what is the probability both are red?"
+P204,writing,Write a dialogue between two friends who disagree about recycling.
+P205,coding,Write a Python function that determines whether a binary tree is height-balanced.
+P206,math,"If you roll two fair six-sided dice, what is the probability that the sum is 10?"
+P207,coding,Write a Go function that finds the maximum sum of any contiguous subarray (Kadane's algorithm).
+P208,math,"A rectangle's length is 5 times its width, and its perimeter is 70 m. Find its dimensions and area."
+P209,writing,Write a limerick about mountain hiking.
+P210,writing,Write a funny social media post about an old library.
+P211,coding,"Write a function in Java that checks whether a string is a palindrome, ignoring spaces and case."
+P212,writing,Write a cover letter opening paragraph for a job connected to mountain hiking.
+P213,writing,Write a blog post introduction about coffee.
+P214,coding,Write a Java function that computes the greatest common divisor of two integers.
+P215,coding,Write a C++ function that removes duplicate values from an array while keeping the original order.
+P216,coding,Write a C++ function that returns the longest common prefix among an array of strings.
+P217,math,Find the limit of (2x^2 + 4) / (4x^2 - 9x) as x approaches infinity.
+P218,math,Prove that the sum of two even integers is always even.
+P219,writing,Write a short poem about volunteering.
+P220,writing,Write a haiku about gardening.
+P221,writing,Write a short scene for a play set around a robot that wants to be human.
+P222,coding,Write a Java function that generates all permutations of a string.
+P223,math,Solve for x: 3x + 7 = 71.
+P224,math,"If $10000 is invested at 8% annual interest compounded yearly, how much will it be worth after 10 years?"
+P225,coding,Write a C++ function that rotates a square matrix 90 degrees clockwise.
+P226,coding,Write a Java function that validates whether a string is a properly formatted email address.
+P227,math,A right triangle has legs of length 10 and 9. Find the length of the hypotenuse.
+P228,math,What is 11% of 660?
+P229,writing,Write a short poem about video games.
+P230,coding,Write a Java function that flattens a nested list or array of arbitrary depth.
+P231,coding,"Explain the difference between pass-by-value and pass-by-reference, with examples in Go."
+P232,math,Find the derivative of f(x) = 3x^3 - 4x^2 + 4x - 1.
+P233,math,Solve for x: 4x + 19 = 99.
+P234,writing,Write a review of an imaginary book about learning to cook.
+P235,math,Find the limit of (3x^2 + 2) / (7x^2 - 5x) as x approaches infinity.
+P236,writing,Write a thank-you note to a mentor who taught you about the ocean.
+P237,math,"A bag has 4 red balls and 7 blue balls. If you draw 2 balls without replacement, what is the probability both are red?"
+P238,writing,Write a reflective journal entry about space exploration.
+P239,writing,Write a persuasive essay paragraph arguing that people should care more about friendship.
+P240,math,"A bag has 7 red balls and 7 blue balls. If you draw 2 balls without replacement, what is the probability both are red?"
+P241,writing,Write a product description for a new gadget related to a small-town bakery.
+P242,math,"If $7000 is invested at 8% annual interest compounded yearly, how much will it be worth after 7 years?"
+P243,writing,Write a formal email to a professor asking for an extension on a project about time travel.
+P244,math,Solve the system of equations: 5x + 4y = 29 and 5x - 3y = 3.
+P245,writing,Write a reflective journal entry about recycling.
+P246,math,"Find the sum of the first 36 positive integers, and explain the formula you use."
+P247,writing,Write a thank-you note to a mentor who taught you about learning a new language.
+P248,coding,Write a JavaScript function that checks whether a number is prime.
+P249,coding,Write a Python function that checks whether a number is prime.
+P250,math,A right triangle has legs of length 10 and 4. Find the length of the hypotenuse.
+P251,writing,Write a formal email to a professor asking for an extension on a project about space exploration.
+P252,coding,Write a Java function that finds the maximum sum of any contiguous subarray (Kadane's algorithm).
+P253,writing,Write a haiku about a family road trip.
+P254,coding,Write a Python program that counts how many times each word appears in a text.
+P255,writing,Write a short scene for a play set around time travel.
+P256,writing,Write a short scene for a play set around space exploration.
+P257,math,Find the limit of (9x^2 + 3) / (2x^2 - 4x) as x approaches infinity.
+P258,math,"If you roll two fair six-sided dice, what is the probability that the sum is 8?"
+P259,writing,Write a persuasive essay paragraph arguing that people should care more about gardening.
+P260,math,Evaluate the integral of (2x^2 + 2x) dx from 0 to 2.
+P261,writing,Write a funny social media post about a broken phone.
+P262,writing,Write a cover letter opening paragraph for a job connected to recycling.
+P263,math,Explain the Pythagorean theorem and give a simple proof of it.
+P264,writing,Write a reflective journal entry about an old library.
+P265,coding,"Write a Java function that computes the factorial of a number recursively, and explain the risk of stack overflow."
+P266,math,Solve the system of equations: 1x + 4y = 30 and 3x - 5y = 6.
+P267,coding,Write a Java program that counts how many times each word appears in a text.
+P268,writing,Write a short scene for a play set around sleep.
+P269,math,"If $8000 is invested at 8% annual interest compounded yearly, how much will it be worth after 8 years?"
+P270,coding,Write a JavaScript function that converts a decimal number to its binary representation without using built-in conversion functions.
+P271,math,Explain what a matrix determinant tells you about a linear system.
+P272,math,Find the derivative of f(x) = 8x^3 - 5x^2 + 7x - 5.
+P273,coding,Write a Java function that checks whether a year is a leap year.
+P274,math,Explain the Monty Hall problem and why switching doors is the better strategy.
+P275,math,"Find the sum of the first 57 positive integers, and explain the formula you use."
+P276,math,"If you roll two fair six-sided dice, what is the probability that the sum is 7?"
+P277,writing,Write a formal email to a professor asking for an extension on a project about video games.
+P278,writing,Write a letter to your future self about the ocean.
+P279,coding,Write a Java function that converts a Roman numeral string to an integer.
+P280,coding,Write a Go function that merges two sorted arrays into one sorted array.
+P281,coding,Write a Python function that merges two sorted arrays into one sorted array.
+P282,math,Find the area and circumference of a circle with radius 7 cm.
+P283,coding,"Write a Python function that computes the factorial of a number recursively, and explain the risk of stack overflow."
+P284,writing,Write a children's bedtime story about climate change.
+P285,coding,"Find and fix the bug: in JavaScript, a loop meant to sum the elements of an array starts its index at 1 instead of 0. Show the corrected code and explain the bug."
+P286,writing,Write a short motivational speech that mentions gardening.
+P287,math,A train travels 358 km in 4 hours. A second train is 26 km/h faster. How long does the second train take to travel the same distance?
+P288,coding,Implement depth-first search on a graph represented as an adjacency list in JavaScript.
+P289,writing,Write a thank-you note to a mentor who taught you about sleep.
+P290,coding,Implement breadth-first search in C++ to find the shortest path in an unweighted graph.
+P291,math,"A rectangle's length is 2 times its width, and its perimeter is 70 m. Find its dimensions and area."
+P292,math,A shirt costs $55. It is discounted by 21% and then a 5% sales tax is added. What is the final price?
+P293,math,Solve for x: 2x + 28 = 52.
+P294,coding,Write a Python function that finds the maximum sum of any contiguous subarray (Kadane's algorithm).
+P295,coding,"Write a Python program that prints the numbers 1 to 100, but prints ""Fizz"" for multiples of 3, ""Buzz"" for multiples of 5, and ""FizzBuzz"" for multiples of both."
+P296,math,"Find the sum of the first 50 positive integers, and explain the formula you use."
+P297,coding,Implement a simple LRU cache in Java with get and put operations.
+P298,math,Evaluate the integral of (7x^2 + 1x) dx from 0 to 2.
+P299,math,Find the limit of (6x^2 + 1) / (4x^2 - 9x) as x approaches infinity.
+P300,math,Evaluate the integral of (4x^2 + 6x) dx from 0 to 4.
+P301,coding,Write a Go function that rotates a square matrix 90 degrees clockwise.
+P302,writing,Write a short story (about 300 words) involving the first day of college.
+P303,math,Explain why the harmonic series 1 + 1/2 + 1/3 + ... diverges.
+P304,math,Prove that the sum of the interior angles of a triangle is 180 degrees.
+P305,writing,Write a funny social media post about a robot that wants to be human.
+P306,writing,Write a children's bedtime story about a thunderstorm.
+P307,math,Solve the system of equations: 2x + 3y = 24 and 2x - 2y = 2.
+P308,coding,Write a JavaScript program that counts how many times each word appears in a text.
+P309,math,Evaluate the integral of (7x^2 + 4x) dx from 0 to 6.
+P310,coding,Write a Java function that determines whether a binary tree is height-balanced.
+P311,writing,Write a thank-you note to a mentor who taught you about time travel.
+P312,coding,Write a Go function that converts a Roman numeral string to an integer.
+P313,math,What is 11% of 699?
+P314,math,Find the area and circumference of a circle with radius 5 cm.
+P315,writing,Write a funny social media post about time travel.
+P316,writing,Write a short scene for a play set around volunteering.
+P317,coding,"Write a JavaScript program that prints the numbers 1 to 100, but prints ""Fizz"" for multiples of 3, ""Buzz"" for multiples of 5, and ""FizzBuzz"" for multiples of both."
+P318,coding,Write a Python function that converts a decimal number to its binary representation without using built-in conversion functions.
+P319,coding,"Implement a stack data structure in JavaScript with push, pop, and peek operations."
+P320,math,"Explain what a derivative represents, both geometrically and physically."
+P321,math,"A rectangle's length is 3 times its width, and its perimeter is 80 m. Find its dimensions and area."
+P322,writing,Write a persuasive essay paragraph arguing that people should care more about sleep.
+P323,coding,Write a Python function that flattens a nested list or array of arbitrary depth.
+P324,math,Solve the system of equations: 5x + 1y = 23 and 2x - 3y = 6.
+P325,writing,Write a short motivational speech that mentions the ocean.
+P326,math,What is 33% of 851?
+P327,math,Find the limit of (2x^2 + 9) / (9x^2 - 7x) as x approaches infinity.
+P328,math,Evaluate the integral of (6x^2 + 5x) dx from 0 to 5.
+P329,writing,Write a limerick about remote work.
+P330,math,Find the limit of (2x^2 + 9) / (5x^2 - 8x) as x approaches infinity.
+P331,writing,Write a short motivational speech that mentions video games.
+P332,writing,Write a letter to your future self about an old library.
+P333,writing,Write a haiku about recycling.
+P334,writing,Write a haiku about climate change.
+P335,writing,Write a formal email to a professor asking for an extension on a project about autumn leaves.
+P336,coding,Write a Python function that converts a Roman numeral string to an integer.
+P337,coding,"Find and fix the bug: in Java, a loop meant to sum the elements of an array starts its index at 1 instead of 0. Show the corrected code and explain the bug."
+P338,coding,Implement breadth-first search in Java to find the shortest path in an unweighted graph.
+P339,writing,Write a short news-style article about a local event involving friendship.
+P340,writing,Write a short news-style article about a local event involving artificial intelligence.
+P341,writing,Write a limerick about gardening.
+P342,writing,Write a thank-you note to a mentor who taught you about a family road trip.
+P343,coding,Write a C++ function that converts a Roman numeral string to an integer.
+P344,writing,Write a letter to your future self about volunteering.
+P345,writing,Write a funny social media post about climate change.
+P346,math,Solve the quadratic equation x^2 - 9x + 10 = 0.
+P347,writing,Write a review of an imaginary book about the first day of college.
+P348,writing,Write a dialogue between two friends who disagree about climate change.
+P349,writing,Write a review of an imaginary book about a rainy Monday morning.
+P350,writing,Write a dialogue between two friends who disagree about mountain hiking.
+P351,writing,Write a persuasive essay paragraph arguing that people should care more about volunteering.
+P352,coding,Write a Java program that reads a CSV file and prints the average of a numeric column.
+P353,coding,Implement binary search in Python and explain its time complexity.
+P354,coding,Write a Java function that returns the n-th Fibonacci number using an iterative approach.
+P355,writing,Write a short motivational speech that mentions mountain hiking.
+P356,math,"A bag has 9 red balls and 9 blue balls. If you draw 2 balls without replacement, what is the probability both are red?"
+P357,math,Solve for x: 9x + 27 = 92.
+P358,writing,Write a blog post introduction about a small-town bakery.
+P359,coding,Write a Go function that returns the n-th Fibonacci number using an iterative approach.
+P360,math,Convert 70 from base 10 to base 2 and base 16.
+P361,math,"A bag has 6 red balls and 8 blue balls. If you draw 2 balls without replacement, what is the probability both are red?"
+P362,coding,Write a C++ program that reads a CSV file and prints the average of a numeric column.
+P363,writing,Write a reflective journal entry about artificial intelligence.
+P364,math,Find the derivative of f(x) = 6x^3 - 9x^2 + 1x - 8.
+P365,coding,Write a Java function that merges two sorted arrays into one sorted array.
+P366,writing,Write a review of an imaginary book about a lost dog.
+P367,math,"A bag has 9 red balls and 8 blue balls. If you draw 2 balls without replacement, what is the probability both are red?"
+P368,coding,Write a C++ function that capitalizes the first letter of every word in a sentence.
+P369,writing,Write a review of an imaginary book about the ocean.
+P370,writing,Write a haiku about a rainy Monday morning.
+P371,writing,Write a persuasive essay paragraph arguing that people should care more about a lost dog.
+P372,coding,Implement merge sort in C++.
+P373,math,Solve the system of equations: 5x + 5y = 10 and 2x - 1y = 8.
+P374,coding,Write a JavaScript function that rotates a square matrix 90 degrees clockwise.
+P375,writing,Write a persuasive essay paragraph arguing that people should care more about the moon.
+P376,writing,Write a short poem about public transportation.
+P377,coding,Implement binary search in Go and explain its time complexity.
+P378,coding,Write a Go function that computes the greatest common divisor of two integers.
+P379,math,Prove that the square root of 2 is irrational.
+P380,coding,Explain how exception handling works in JavaScript and show a short example.
+P381,writing,Write a five-paragraph essay outline on gardening.
+P382,writing,Write a short poem about autumn leaves.
+P383,math,A shirt costs $24. It is discounted by 15% and then a 9% sales tax is added. What is the final price?
+P384,writing,Write a short motivational speech that mentions friendship.
+P385,math,"A bag has 8 red balls and 8 blue balls. If you draw 2 balls without replacement, what is the probability both are red?"
+P386,math,How many ways can 5 people be seated in a row of chairs?
+P387,writing,Write a dialogue between two friends who disagree about public transportation.
+P388,math,Find the derivative of f(x) = 7x^3 - 6x^2 + 8x - 14.
+P389,writing,Write a formal email to a professor asking for an extension on a project about recycling.
+P390,writing,Write a short story (about 300 words) involving video games.
+P391,math,Solve the quadratic equation x^2 - 3x + 20 = 0.
+P392,coding,Write a JavaScript function that computes the greatest common divisor of two integers.
+P393,coding,Write a Python function that validates whether a string is a properly formatted email address.
+P394,math,A train travels 115 km in 2 hours. A second train is 20 km/h faster. How long does the second train take to travel the same distance?
+P395,writing,Write a funny social media post about video games.
+P396,writing,Write a funny social media post about sleep.
+P397,writing,Write a dialogue between two friends who disagree about gardening.
+P398,coding,Write a Java function that returns the k most frequent elements in an array.
+P399,math,How many different committees of 2 people can be chosen from a group of 9?
+P400,math,"Find the mean, median, and mode of this data set: 4, 20, 1, 4, 9, 11, 13, 18, 10, 18, 15."
+P401,writing,Write a letter to your future self about climate change.
+P402,coding,Write a Go function that capitalizes the first letter of every word in a sentence.
+P403,coding,Write a Go program that counts how many times each word appears in a text.
+P404,coding,Write a JavaScript function that removes duplicate values from an array while keeping the original order.
+P405,coding,Write a C++ function that computes the greatest common divisor of two integers.
+P406,writing,Write a short news-style article about a local event involving learning a new language.
+P407,math,What is 37% of 720?
+P408,coding,Write a JavaScript function that converts a Roman numeral string to an integer.
+P409,coding,Write a Java function that rotates a square matrix 90 degrees clockwise.
+P410,writing,Write a review of an imaginary book about a city at night.
+P411,writing,Write a short poem about recycling.
+P412,coding,Implement a queue using two stacks in C++.
+P413,writing,Write a children's bedtime story about public transportation.
+P414,writing,Write a product description for a new gadget related to volunteering.
+P415,writing,Write a funny social media post about a rainy Monday morning.
+P416,math,Solve the system of equations: 3x + 4y = 10 and 4x - 5y = 8.
+P417,math,Solve the system of equations: 3x + 2y = 24 and 1x - 2y = 3.
+P418,writing,Write a product description for a new gadget related to a city at night.
+P419,coding,Write a Go function that reverses a singly linked list.
+P420,math,Solve the quadratic equation x^2 - 8x + 4 = 0.
+P421,math,"Explain the difference between a permutation and a combination, with an example."
+P422,coding,Write a Python function that capitalizes the first letter of every word in a sentence.
+P423,math,How many different committees of 3 people can be chosen from a group of 6?
+P424,writing,Write a five-paragraph essay outline on climate change.
+P425,writing,Write a persuasive essay paragraph arguing that people should care more about a robot that wants to be human.
+P426,math,A train travels 203 km in 2 hours. A second train is 22 km/h faster. How long does the second train take to travel the same distance?
+P427,writing,Write a reflective journal entry about coffee.
+P428,math,Convert 201 from base 10 to base 2 and base 16.
+P429,math,A shirt costs $65. It is discounted by 33% and then a 7% sales tax is added. What is the final price?
+P430,writing,Write a cover letter opening paragraph for a job connected to autumn leaves.
+P431,writing,Write a haiku about the ocean.
+P432,writing,Write a formal email to a professor asking for an extension on a project about a lost dog.
+P433,coding,Write a Go function that converts a decimal number to its binary representation without using built-in conversion functions.
+P434,writing,Write a limerick about learning to cook.
+P435,coding,Write a JavaScript function that determines whether a binary tree is height-balanced.
+P436,coding,Write a Python function that finds the two numbers in an array that add up to a given target.
+P437,writing,Write a letter to your future self about time travel.
+P438,math,A right triangle has legs of length 8 and 14. Find the length of the hypotenuse.
+P439,writing,Write a short story (about 300 words) involving learning a new language.
+P440,writing,Write a limerick about a broken phone.
+P441,coding,Write a Java function that finds the two numbers in an array that add up to a given target.
+P442,math,Solve the quadratic equation x^2 - 10x + 15 = 0.
+P443,math,What is 20% of 200?
+P444,writing,Write a five-paragraph essay outline on artificial intelligence.
+P445,coding,Write a Go function that finds the first non-repeating character in a string.
+P446,math,"Find the mean, median, and mode of this data set: 6, 11, 5, 12, 11, 20, 9, 14, 4."
+P447,math,A train travels 149 km in 3 hours. A second train is 19 km/h faster. How long does the second train take to travel the same distance?
+P448,coding,Implement merge sort in JavaScript.
+P449,coding,"Implement a stack data structure in Python with push, pop, and peek operations."
+P450,math,"A bag has 9 red balls and 3 blue balls. If you draw 2 balls without replacement, what is the probability both are red?"
+P451,writing,Write a review of an imaginary book about a thunderstorm.
+P452,writing,Write a blog post introduction about gardening.
+P453,math,How many ways can 7 people be seated in a row of chairs?
+P454,coding,"Explain the difference between pass-by-value and pass-by-reference, with examples in JavaScript."
+P455,coding,Write a JavaScript function that checks whether a year is a leap year.
+P456,writing,Write a short motivational speech that mentions an old library.
+P457,coding,Write a JavaScript function that reverses a singly linked list.
+P458,writing,Write a short poem about coffee.
+P459,math,Evaluate the integral of (5x^2 + 9x) dx from 0 to 4.
+P460,coding,Implement binary search in JavaScript and explain its time complexity.
+P461,math,"A rectangle's length is 3 times its width, and its perimeter is 40 m. Find its dimensions and area."
+P462,math,Find the area and circumference of a circle with radius 10 cm.
+P463,writing,Write a short motivational speech that mentions a rainy Monday morning.
+P464,coding,Write a Java function that implements the Sieve of Eratosthenes to list all primes below n.
+P465,math,How many different committees of 3 people can be chosen from a group of 8?
+P466,math,How many ways can 8 people be seated in a row of chairs?
+P467,coding,Write a Python function that returns the longest common prefix among an array of strings.
+P468,writing,Write a product description for a new gadget related to autumn leaves.
+P469,writing,Write a persuasive essay paragraph arguing that people should care more about a city at night.
+P470,math,"Find the sum of the first 28 positive integers, and explain the formula you use."
+P471,math,Solve the quadratic equation x^2 - 9x + 7 = 0.
+P472,coding,Implement a queue using two stacks in Go.
+P473,writing,Write a five-paragraph essay outline on space exploration.
+P474,coding,Write a Python function that removes duplicate values from an array while keeping the original order.
+P475,writing,Write a cover letter opening paragraph for a job connected to social media.
+P476,math,Prove that the product of any two odd numbers is odd.
+P477,writing,Write a short news-style article about a local event involving climate change.
+P478,coding,Write a Go function that checks if two strings are anagrams of each other.
+P479,writing,Write a reflective journal entry about a city at night.
+P480,math,Explain what the fundamental theorem of calculus says and why it is important.
+P481,coding,"Write a function in Go that checks whether a string is a palindrome, ignoring spaces and case."
+P482,writing,Write a short story (about 300 words) involving an old library.
+P483,coding,Write a JavaScript function that returns the longest common prefix among an array of strings.
+P484,math,How many ways can 6 people be seated in a row of chairs?
+P485,coding,Explain how exception handling works in Python and show a short example.
+P486,coding,Write a Python function that computes the greatest common divisor of two integers.
+P487,math,Find the limit of (9x^2 + 1) / (4x^2 - 1x) as x approaches infinity.
+P488,math,A shirt costs $44. It is discounted by 19% and then a 6% sales tax is added. What is the final price?
+P489,coding,"Implement a stack data structure in Java with push, pop, and peek operations."
+P490,writing,Write a children's bedtime story about remote work.
+P491,math,"Find the sum of the first 23 positive integers, and explain the formula you use."
+P492,writing,Write a short story (about 300 words) involving the moon.
+P493,coding,Write a Python function that finds the first non-repeating character in a string.
+P494,coding,Write a JavaScript function that merges two sorted arrays into one sorted array.
+P495,math,A right triangle has legs of length 4 and 4. Find the length of the hypotenuse.
+P496,coding,"Write a Go function that computes the factorial of a number recursively, and explain the risk of stack overflow."
+P497,math,"A bag has 4 red balls and 9 blue balls. If you draw 2 balls without replacement, what is the probability both are red?"
+P498,coding,Write a Go function that validates whether a string is a properly formatted email address.
+P499,math,"If you roll two fair six-sided dice, what is the probability that the sum is 9?"
+P500,writing,Write a cover letter opening paragraph for a job connected to the moon.
+P501,writing,Write a reflective journal entry about a robot that wants to be human.
+P502,coding,Implement a queue using two stacks in Python.
+P503,writing,Write a thank-you note to a mentor who taught you about climate change.
+P504,math,A train travels 114 km in 4 hours. A second train is 11 km/h faster. How long does the second train take to travel the same distance?
+P505,math,"If $8000 is invested at 2% annual interest compounded yearly, how much will it be worth after 4 years?"
+P506,math,Convert 248 from base 10 to base 2 and base 16.
+P507,writing,Write a blog post introduction about a thunderstorm.
+P508,writing,Write a children's bedtime story about video games.
+P509,coding,Write a Go function that finds the two numbers in an array that add up to a given target.
+P510,math,"A bag has 5 red balls and 6 blue balls. If you draw 2 balls without replacement, what is the probability both are red?"
+P511,coding,Write a Java function that finds the first non-repeating character in a string.
+P512,writing,Write a limerick about public transportation.
+P513,coding,Write a JavaScript function that capitalizes the first letter of every word in a sentence.
+P514,coding,Write a C++ function that determines whether a binary tree is height-balanced.
+P515,math,Find the limit of (5x^2 + 7) / (5x^2 - 8x) as x approaches infinity.
+P516,math,A shirt costs $54. It is discounted by 30% and then a 8% sales tax is added. What is the final price?
+P517,coding,Implement binary search in Java and explain its time complexity.
+P518,math,"Find the sum of the first 32 positive integers, and explain the formula you use."
+P519,writing,Write a children's bedtime story about a small-town bakery.
+P520,coding,Write a Go function that returns the longest common prefix among an array of strings.
+P521,coding,Implement binary search in C++ and explain its time complexity.
+P522,coding,Write a JavaScript function that returns the k most frequent elements in an array.
+P523,math,A shirt costs $90. It is discounted by 17% and then a 7% sales tax is added. What is the final price?
+P524,math,What is 35% of 246?
+P525,writing,Write a haiku about artificial intelligence.
+P526,math,A right triangle has legs of length 3 and 7. Find the length of the hypotenuse.
+P527,writing,Write a limerick about a robot that wants to be human.
+P528,coding,Explain how exception handling works in Go and show a short example.
+P529,coding,"Write a Go function that checks whether a string of brackets like ""([]{})"" is balanced."
+P530,writing,Write a cover letter opening paragraph for a job connected to friendship.
+P531,writing,Write a funny social media post about volunteering.
+P532,coding,Implement merge sort in Java.
+P533,writing,Write a formal email to a professor asking for an extension on a project about the ocean.
+P534,writing,Write a letter to your future self about friendship.
+P535,writing,Write a letter to your future self about video games.
+P536,coding,Write a JavaScript function that counts the vowels in a string.
+P537,writing,Write a short scene for a play set around remote work.
+P538,coding,Write a C++ function that converts a decimal number to its binary representation without using built-in conversion functions.
+P539,coding,Write a Python function that implements the Sieve of Eratosthenes to list all primes below n.
+P540,math,Convert 302 from base 10 to base 2 and base 16.
+P541,writing,Write a short motivational speech that mentions a thunderstorm.
+P542,math,Convert 27 from base 10 to base 2 and base 16.
+P543,writing,Write a reflective journal entry about gardening.
+P544,coding,Write a Go function that generates all permutations of a string.
+P545,coding,Implement depth-first search on a graph represented as an adjacency list in Go.
+P546,coding,"Find and fix the bug: in Go, a loop meant to sum the elements of an array starts its index at 1 instead of 0. Show the corrected code and explain the bug."
+P547,coding,Implement a queue using two stacks in Java.
+P548,writing,Write a cover letter opening paragraph for a job connected to coffee.
+P549,math,"Find the mean, median, and mode of this data set: 17, 5, 7, 4, 13, 13, 11, 15, 16, 9."
+P550,coding,Write a C++ function that finds the two numbers in an array that add up to a given target.
+P551,coding,Implement a simple LRU cache in Python with get and put operations.
+P552,math,A shirt costs $64. It is discounted by 22% and then a 8% sales tax is added. What is the final price?
+P553,coding,"Write a C++ function that checks whether a string of brackets like ""([]{})"" is balanced."
+P554,math,A shirt costs $86. It is discounted by 10% and then a 8% sales tax is added. What is the final price?
+P555,coding,"Implement a stack data structure in C++ with push, pop, and peek operations."
+P556,math,What is 18% of 492?
+P557,math,A shirt costs $62. It is discounted by 25% and then a 7% sales tax is added. What is the final price?
+P558,math,"A bag has 7 red balls and 5 blue balls. If you draw 2 balls without replacement, what is the probability both are red?"
+P559,coding,Write a Python program that reads a CSV file and prints the average of a numeric column.
+P560,writing,Write a five-paragraph essay outline on a small-town bakery.
+P561,coding,Write a C++ function that counts the vowels in a string.
+P562,writing,Write a limerick about friendship.
+P563,coding,Write a Go function that counts the vowels in a string.
+P564,writing,Write a short poem about a small-town bakery.
+P565,math,"If $8000 is invested at 6% annual interest compounded yearly, how much will it be worth after 8 years?"
+P566,coding,Write a Go function that returns the k most frequent elements in an array.
+P567,coding,Implement a binary search tree in Python with insert and search methods.
+P568,math,A train travels 372 km in 4 hours. A second train is 10 km/h faster. How long does the second train take to travel the same distance?
+P569,coding,"Explain the difference between pass-by-value and pass-by-reference, with examples in Python."
+P570,writing,Write a review of an imaginary book about recycling.
+P571,math,"Explain the difference between mean and median, and when each is more useful."
+P572,math,"A rectangle's length is 3 times its width, and its perimeter is 50 m. Find its dimensions and area."
+P573,coding,Write a Python function that counts the vowels in a string.
+P574,math,Prove that there are infinitely many prime numbers.
+P575,coding,Write a JavaScript function that finds the maximum sum of any contiguous subarray (Kadane's algorithm).
+P576,coding,"Write a C++ function that computes the factorial of a number recursively, and explain the risk of stack overflow."
+P577,writing,Write a five-paragraph essay outline on volunteering.
+P578,writing,Write a short news-style article about a local event involving autumn leaves.
+P579,writing,Write a persuasive essay paragraph arguing that people should care more about time travel.
+P580,writing,Write a review of an imaginary book about climate change.
+P581,math,Explain why any number raised to the power of 0 equals 1.
+P582,math,Find the area and circumference of a circle with radius 13 cm.
+P583,math,"A bag has 4 red balls and 5 blue balls. If you draw 2 balls without replacement, what is the probability both are red?"
+P584,writing,Write a thank-you note to a mentor who taught you about volunteering.
+P585,math,Find the limit of (5x^2 + 8) / (6x^2 - 4x) as x approaches infinity.
+P586,coding,Write a Java function that converts a decimal number to its binary representation without using built-in conversion functions.
+P587,math,"If $7000 is invested at 5% annual interest compounded yearly, how much will it be worth after 3 years?"
+P588,coding,Implement depth-first search on a graph represented as an adjacency list in Java.
+P589,writing,Write a blog post introduction about mountain hiking.
+P590,coding,Implement a simple LRU cache in C++ with get and put operations.
+P591,writing,Write a product description for a new gadget related to friendship.
+P592,math,"A bag has 5 red balls and 8 blue balls. If you draw 2 balls without replacement, what is the probability both are red?"
+P593,math,A right triangle has legs of length 12 and 7. Find the length of the hypotenuse.
+P594,writing,Write a letter to your future self about mountain hiking.
+P595,math,Solve the quadratic equation x^2 - 7x + 18 = 0.
+P596,writing,Write a short story (about 300 words) involving a rainy Monday morning.
+P597,math,A train travels 250 km in 3 hours. A second train is 11 km/h faster. How long does the second train take to travel the same distance?
+P598,writing,Write a product description for a new gadget related to a broken phone.
+P599,math,Evaluate the integral of (9x^2 + 1x) dx from 0 to 6.
+P600,math,A right triangle has legs of length 5 and 11. Find the length of the hypotenuse.
